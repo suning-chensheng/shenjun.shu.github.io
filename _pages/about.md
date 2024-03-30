@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "个人简介"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+2023年6月毕业于西安电子科技大学 网络空间安全专业，师从陈晓峰教授。2023年8月加入上海大学。主要研究方向为数据安全、云计算、区块链等，已在国际知名信息安全期刊和会议上发表/录用学术论文 10 余篇，其中包括 CCF 推荐的 A 类 IEEE Trans. 期刊论文 4 篇、B 类会议论文 2 篇、ESI 高被引论文 1 篇；申请国家发明专利 6 项，已授权 3 项；参研专用技术预研项目 1 项、国家自然科学基金重点国际合作与交流项目 1 项、省级重点研发计划 2 项。
 
 A data-driven personal website
 ======
